@@ -1,0 +1,129 @@
+#we {
+  max-height: 30em;
+  background-image: url(./pictures/default-share.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-origin: content-box;
+}
+#we a {
+  color: white;
+  margin-left: 1.9em;
+  text-decoration: none;
+}
+#we a:hover {
+  text-transform: uppercase;
+  color: #ffafa7;
+}
+#we #wq {
+  display: flex;
+}
+#we #wq .sa {
+  display: flex;
+  margin: 1em 0px 0px 3.4em;
+}
+#we #wq .sa .az {
+  margin-left: 5.4em;
+}
+#we .wkk {
+  position: absolute;
+  padding: 2em 0px 0px 3em;
+}
+#we .wkk p {
+  font-size: 20px;
+  padding-left: 4px;
+  margin-left: 9px;
+  color: #ffb5ad;
+  font-family: Circular, Helvetica, Arial, sans-serif;
+  font-weight: 300;
+}
+#we .wkk p strong {
+  margin-left: 4px;
+  color: white;
+  font-family: Circular, Helvetica, Arial, sans-serif;
+  font-weight: 300;
+}
+#we #bc {
+  margin: 5em 0px 0px 7em;
+}
+#we #bc button {
+  margin-top: 4em;
+  border-radius: 37px;
+  border-style: none;
+  height: 3.8em;
+  width: 8em;
+  color: white;
+  background-color: rgb(0, 0, 1);
+}
+#we #bc button:hover {
+  outline: solid black;
+  color: black;
+  background-color: #d92e28;
+}
+#we #bcc {
+  margin-left: 64.2em;
+}
+#we #btn {
+  margin-left: 51em;
+}
+#we #zzc {
+  margin: -1em 0px 0px 8em;
+}
+#we #pop {
+  border-radius: 12px;
+  padding: 12px 0px 0px 18px;
+  margin: 0px 0px 0px 7px;
+  height: 7.8em;
+}
+#we #ppop {
+  width: 22em;
+  margin-top: 1em;
+  position: fixed;
+}
+#we #ppop button {
+  border-color: #ababad;
+  background-color: #ababad;
+  border-radius: 100px;
+  color: aqua;
+  cursor: no-drop;
+}
+#we #poi {
+  position: sticky;
+}
+
+#jj marquee {
+  animation-direction: alternate;
+  overflow: auto;
+  overflow-style: marquee, panner;
+  scroll-margin-top: 9em;
+  margin-left: 2em;
+}
+#jj marquee div {
+  position: relative;
+}
+#jj marquee #zzx {
+  border-radius: 14px;
+  width: 24.9em;
+  height: 10em;
+  text-align: center;
+  margin-left: 14em;
+  background-color: #ffcdd2;
+}
+#jj marquee .jm {
+  border-radius: 14px;
+  width: 24.9em;
+  height: 10em;
+  text-align: center;
+  margin: 9px 0px 0px 3em;
+  background-color: aliceblue;
+}
+#jj marquee #jm {
+  border-radius: 14px;
+  width: 24.9em;
+  height: 10em;
+  text-align: center;
+  background-color: rgb(0, 0, 1);
+  color: white;
+  margin: 9px 0px 0px 5em;
+}
+
+/*# sourceMappingURL=gt.css.map */

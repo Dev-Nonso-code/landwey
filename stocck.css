@@ -1,0 +1,48 @@
+.header2 #to bottom {
+  display: flex;
+}
+.header2 #to .ui {
+  display: none;
+}
+.header2 .we {
+  display: inline-flex;
+}
+.header2 .dropdown-contect {
+  display: none;
+  background-color: #2f2f2f;
+}
+.header2 .dropdown:hover .dropdown-contect {
+  display: block;
+  margin: 1.4em 0px 0px -6em;
+  position: relative;
+  width: 12.2em;
+  height: 15.2em;
+  background-color: #282828;
+  border-radius: 7px;
+}
+
+.material-symbols-outlined {
+  color: white;
+}
+
+#qa {
+  color: black;
+}
+
+#sys:hover {
+  background-color: rgb(0, 0, 1);
+}
+
+#sys {
+  cursor: pointer;
+}
+
+.zz:hover {
+  background-color: rgb(0, 0, 1);
+}
+
+.zz {
+  cursor: pointer;
+}
+
+/*# sourceMappingURL=stocck.css.map */

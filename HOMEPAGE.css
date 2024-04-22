@@ -1,0 +1,363 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+
+nav {
+  position: sticky;
+  background-color: black;
+  width: fit-content;
+  height: 100vh;
+  top: 0%;
+  bottom: 0%;
+}
+nav hr {
+  color: white;
+}
+nav div {
+  display: flex;
+  color: aqua;
+  margin-left: 8px;
+  padding: 7px;
+}
+nav div h6 {
+  cursor: pointer;
+  padding-left: 1.2em;
+}
+nav div .dd {
+  border-radius: 4px;
+}
+nav div .dd:hover {
+  background-color: lightgreen;
+}
+nav div img {
+  cursor: pointer;
+  margin-bottom: 14px;
+}
+nav span a {
+  color: aqua;
+  padding-left: 17px;
+  text-decoration: none;
+  margin-top: 4px;
+  display: block;
+}
+nav span a:hover {
+  color: dodgerblue;
+  text-decoration: underline;
+}
+nav span .rr {
+  margin-top: 4.4em;
+}
+
+header {
+  position: fixed;
+  height: 4em;
+  width: 69em;
+  display: flex;
+  background-color: rgb(0, 0, 0);
+}
+header .ww {
+  transition: all 0.7s ease-in;
+  text-decoration: none;
+  color: lightgray;
+  margin: 14px 0px 0px 2em;
+}
+header .ww:hover {
+  transform: rotate(9px 12px);
+  color: white;
+  text-transform: uppercase;
+  text-shadow: #272727;
+}
+header .wwo {
+  text-decoration: none;
+  color: lightgoldenrodyellow;
+  margin: 14px 0px 0px 9em;
+}
+header .wwo:hover {
+  text-transform: uppercase;
+  color: white;
+  transform: translate(2px 4px);
+}
+header .e {
+  text-decoration: none;
+  margin-top: 19px;
+  color: lime;
+  margin-left: 10em;
+}
+header .e:hover {
+  text-align: center;
+  margin-top: 4px;
+  padding-top: 14px;
+  width: 4.7em;
+  border-radius: 25px;
+  border: 2px solid whitesmoke;
+  text-shadow: solid pink;
+  text-transform: uppercase;
+  color: white;
+}
+header .si {
+  background-color: rgb(0, 0, 0);
+  margin: 17px 0px 0px 14.4em;
+  display: flex;
+  color: white;
+  padding-left: 20px;
+}
+header .ee {
+  color: black;
+  margin-top: 4.7px;
+  background-color: white;
+  margin-left: 1.2em;
+  width: 7em;
+  border-radius: 100px;
+}
+header .ee a {
+  color: black;
+}
+header .ee:hover {
+  border: 2px solid white;
+  background-color: black;
+  color: white;
+}
+header .ee:hover a {
+  color: white;
+}
+header #r {
+  margin: auto;
+}
+header #q {
+  padding-left: 18px;
+}
+header button {
+  height: 2.8em;
+  margin: 8px 0px 0px 0px;
+}
+
+main {
+  margin: -25.7em 0px 0px 14.4em;
+  width: fit-content;
+  background-color: #121212;
+}
+main .ako {
+  display: flex;
+}
+main .ako h4 {
+  margin-left: 1em;
+}
+main .see {
+  margin-left: 33em;
+  margin-bottom: -2em;
+}
+main div {
+  padding-top: 2em;
+}
+main div a {
+  text-decoration: none;
+}
+main div a:hover {
+  color: white;
+  text-decoration: underline;
+}
+main .div2 {
+  max-width: 70em;
+  display: flex;
+}
+main .div2 .di {
+  cursor: pointer;
+  text-align: center;
+  margin: 10.5px;
+  border-radius: 9px;
+  height: 19.4em;
+  width: 11.9em;
+  background-color: rgba(0, 0, 0, 0.368);
+}
+main .div2 .di a {
+  color: aqua;
+}
+main .div2 .di button {
+  border-color: white;
+  visibility: visible;
+  top: -3.4em;
+  left: 3em;
+  position: relative;
+  width: 3em;
+  height: 3em;
+  background-color: #1fdf64;
+  border-radius: 28px;
+}
+main .div2 .di button:hover {
+  border: none;
+  background-color: aliceblue;
+}
+main .div2 .llo {
+  display: none;
+  transform: translate(3px 4px);
+}
+main .div2 .di:hover .llo {
+  display: contents;
+}
+main .div2 .di:hover {
+  background-color: #272727;
+}
+main .div2 img {
+  border-radius: 14px;
+}
+
+footer {
+  top: 0%;
+  background-color: #181818;
+  height: 4em;
+  position: sticky;
+}
+footer .audio {
+  background-color: #181818;
+  margin: 4px 0px 0px 19em;
+}
+
+#ee {
+  padding: 4em 0px 3em 4px;
+  margin: 0em 0px 0px 14.4em;
+  display: flex;
+  background-color: #121212;
+}
+#ee section {
+  margin: 2em 0px 0px 2.4em;
+}
+#ee section h3 {
+  color: white;
+}
+#ee section a {
+  color: white;
+  text-decoration: none;
+}
+#ee section a:hover {
+  text-transform: uppercase;
+  text-decoration: underline;
+}
+#ee .ddf {
+  display: flex;
+}
+#ee .ddf img {
+  cursor: pointer;
+  margin: 7px 0px 0px 6px;
+  width: 3em;
+  height: 3em;
+}
+#ee .ddf div {
+  margin-left: 9px;
+  width: 4em;
+  height: 4em;
+  background-color: rgb(0, 0, 0);
+  border-radius: 100px;
+}
+#ee .ddf div .kj {
+  margin: 1em 0px 0px 17px;
+}
+#ee .ddf div:hover {
+  background-color: #727272;
+}
+
+.you {
+  padding: 4em 0px 3em 4px;
+  margin: 0em 0px 0px 14.4em;
+  display: flex;
+  background-color: #121212;
+}
+.you h4 {
+  margin-left: 3.7em;
+}
+.you a {
+  margin-left: 1em;
+  color: white;
+  text-decoration: none;
+}
+.you a:hover {
+  color: lightsteelblue;
+  text-transform: uppercase;
+  text-decoration: underline;
+}
+
+.qas {
+  margin: 1em 0px -2em 20em;
+  color: white;
+  width: 38em;
+}
+
+@media only screen and (max-width: 589px) {
+  body {
+    overflow-x: hidden;
+    max-width: 582px;
+    flex-wrap: wrap-reverse;
+  }
+  body header {
+    position: static;
+    display: all;
+    background-color: #121212;
+  }
+  body header .wwo {
+    display: none;
+  }
+  body header .ww {
+    display: none;
+  }
+  body header .e {
+    margin-left: 2em;
+  }
+  body header .ee {
+    margin-left: 3em;
+  }
+  body main {
+    margin-top: -30em;
+  }
+  body main .ako .see {
+    margin: 0px 0px 0px 6em;
+  }
+  body main .div2 {
+    flex-wrap: wrap;
+    display: block;
+  }
+  body main .div2 .di {
+    width: 220px;
+    margin-left: 4em;
+    text-align: center;
+    display: block;
+    max-width: 589px;
+  }
+  body #ee {
+    margin-top: -1em;
+    max-width: 589px;
+    display: block;
+  }
+  body #ee section {
+    display: block;
+  }
+  body .you {
+    display: block;
+  }
+  body footer {
+    display: none;
+  }
+}
+@media only screen and (max-width: 412px) {
+  body {
+    flex-wrap: wrap;
+    max-width: 412px;
+    text-align: center;
+    background-color: #272727;
+  }
+  body nav {
+    top: 0%;
+    height: 79em;
+    bottom: 0%;
+  }
+  body main .div2 {
+    width: 411px;
+  }
+  body #ee {
+    width: 411px;
+  }
+  body .you {
+    width: 411px;
+  }
+}
+
+/*# sourceMappingURL=HOMEPAGE.css.map */

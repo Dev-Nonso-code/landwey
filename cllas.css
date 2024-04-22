@@ -1,0 +1,186 @@
+* {
+  margin: auto;
+  padding: auto;
+}
+
+body {
+  background-image: url(./w3sch/mmt.jpg);
+}
+
+.i {
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  background-color: #35363a;
+  height: 47px;
+}
+
+.j {
+  margin-left: 790px;
+  padding-left: 3px;
+}
+
+.o {
+  margin-top: 23px;
+}
+
+.icofont-navigation-menu {
+  margin-top: 14px;
+}
+
+.me {
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  color: white;
+  margin-top: 10px;
+  border-radius: 14px;
+  border: none;
+  padding-bottom: 4px;
+}
+
+main {
+  text-align: center;
+}
+
+.lady {
+  outline: none;
+  border: none;
+  background-color: transparent;
+  margin: 0px 10px;
+  width: 400px;
+  height: 30px;
+}
+
+.search {
+  padding: 4px 15px;
+  padding: 3px 15px;
+  /* background-color: transparent; */
+  border-color: white;
+  border-radius: 20px;
+  background-color: white;
+  width: fit-content;
+  /* margin-top: -4px; */
+}
+
+.icofont-mic {
+  color: #4285f4;
+  border: 20px;
+}
+
+.google {
+  color: lemonchiffon;
+  background-color: #35363a;
+  height: 180px;
+}
+
+.mains {
+  padding-bottom: 40px;
+  align-items: center;
+  justify-content: center;
+  width: 400px;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 27px;
+  max-width: 400px;
+}
+
+.vov {
+  text-decoration: none;
+  color: white;
+}
+
+.jop {
+  display: flex;
+  text-align: center;
+  height: 100px;
+  width: 100px;
+  flex-direction: column;
+  border: none;
+  border-radius: 10%;
+}
+
+.jop:hover {
+  background-color: #4a4a4e;
+  place-content: youtube;
+  border-radius: 7%;
+  position: relative;
+}
+
+.jop:hover .material-symbols-outlined {
+  visibility: visible;
+}
+
+.material-symbols-outlined:hover {
+  background-color: #303330;
+}
+
+.jop a {
+  color: white;
+  text-decoration: none;
+}
+
+.material-symbols-outlined {
+  color: none;
+  visibility: hidden;
+  margin-left: 70px;
+  background-color: blac;
+  display: none;
+}
+
+.mee:hover .material-symbols-outlined {
+  width: 20px;
+  height: 24px;
+  border-radius: 40%;
+  color: #fff;
+}
+
+.the-content {
+  text-decoration: none;
+  font-size: 12px;
+  display: none;
+  position: absolute;
+  background-color: none;
+}
+
+.mee:focus-within .the-content {
+  display: block;
+  transition: all 0.4s ease-in;
+  color: white;
+  background-color: #9fa1a8;
+}
+
+.oo {
+  background-color: none;
+}
+
+.oo:hover {
+  background-color: burlywood;
+  border-radius: 10%;
+}
+
+.mee {
+  background-color: transparent;
+  border: none;
+  position: relative;
+}
+
+.img {
+  border-style: none;
+  border: none;
+  width: 37px;
+  height: 35px;
+  border-radius: 100%;
+}
+
+.the-content a {
+  text-decoration: none;
+  color: white;
+  padding: 5px 10px;
+  background-color: #35363a;
+  font-size: 14px;
+  display: block;
+}
+
+/*# sourceMappingURL=cllas.css.map */

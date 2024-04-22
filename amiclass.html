@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <linkrel="stylesheet"href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+    <style>
+        div{
+            width: 100px;
+            height: 100px;
+            background-color: brown;
+            position: fixed;
+            animation-name: nonso;
+            animation-duration: 7s;
+            animation-iteration-count: infinite;
+           animation-direction: normal;
+        }
+        .animate__tada{
+            animation-iteration-count: infinite;
+            animation-duration: 7s;
+        }
+        @keyframes nonso{
+           0%{
+            left: 0%;
+            top: 0%;
+           }
+           25%{
+            left: 400px;
+            top: 40px;
+            border-radius: 0 0 0 20px;
+            background-color: darkslategray;
+            transform: rotate(30deg);
+            border-radius: 30px;
+           }
+           50%{
+              
+              top: 10em;
+              left: 300px;
+              border-radius: 2em;
+              background-color: greenyellow;
+           }
+           75%{
+             left: 0;
+             top: 400px;
+             background-color: blue;
+             transform: rotateY('angle');
+           }
+           100%{
+            left: 0%;
+            top: 0%;
+            border-radius: 20px 20px 17px 10px;
+            background-color: tomato;
+           }
+        }
+    </style>
+</head>
+<body>
+    <main>
+        <a href="https://github.com/animate-css/animate.css">github</a>
+        <h3 class="animate_animated animate__tada">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat aliquid quo quos, sapiente dolorem animi nam temporibus eos beatae non, neque quod facere ut provident tempora, nostrum debitis repellendus cupiditate!</h3>
+        <div>
+        </div>
+    </main>
+</body>
+</html>

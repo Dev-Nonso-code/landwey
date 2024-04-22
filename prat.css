@@ -1,0 +1,29 @@
+
+.div{
+    flex-wrap: wrap;
+    width: 30%;
+    height: 50%;
+    background-color: red;
+    margin: 1em;
+}
+.div p{
+    text-align: center;
+    color: aliceblue;
+    padding-left: 3em;
+}
+div{
+    display: flex;
+    flex-wrap: wrap;
+}
+@media screen and (max-width: 500px){
+.div{
+    width: 100%;
+     
+}
+    
+}
+@media screen and (max-width: 450px){
+.div{
+    width: 100%;
+}
+}

@@ -1,0 +1,22 @@
+div{
+    border-radius: 20px;
+    width: 70px;
+    height: 40px;
+    background-color: blue;
+    transition: all .3s ease-out;
+    box-shadow: 0 7px 0 tomato;
+}
+div:hover{
+   box-shadow: none;
+    transform: translate(10px, 5px);
+    background-color: brown;
+}
+.a{
+    border-style: none;
+    border-radius: 20px;
+    background-color: blue;
+}
+.a:hover{
+    background-color: brown;
+    
+}

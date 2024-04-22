@@ -1,0 +1,92 @@
+@media only screen and (max-width: 600px) {
+  .yo {
+    overflow-x: hidden;
+  }
+  .yo .navholder {
+    overflow-x: hidden;
+    overflow-x: hidden;
+    background-image: url(./pictures/How_we_hire-826.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .yo .navholder nav .after {
+    display: block;
+    font-size: xx-small;
+  }
+  .yo .navholder .band {
+    margin-right: 1em;
+  }
+  .yo .navholder .band .mar {
+    margin-left: -2em;
+  }
+  .yo .navholder .band .key {
+    margin: 18px 0px 0px 3em;
+  }
+  .yo .navholder .band .key aside {
+    margin-right: 1em;
+  }
+  .yo .navholder .band .key aside .fa-solid fa-arrow-right {
+    color: black;
+  }
+  .yo .stick .first .no article {
+    margin-right: 2em;
+    margin: 0px 0px 0px -5em;
+  }
+  .yo .stick .second article {
+    margin: 0px 0px 0px -4.7em;
+  }
+  .yo .stick .third article {
+    margin: 0px 0px 0px -4.7em;
+  }
+  .yo .prosper {
+    display: none;
+  }
+  .yo .hehe {
+    display: block;
+  }
+  .yo .hehe div h1 {
+    max-width: 410px;
+    flex-wrap: wrap;
+    font-size: large;
+    margin: 0px 0px 0px -1px;
+  }
+  .yo .hehe div p {
+    font-size: medium;
+    margin: 0px 0px 0px -1px;
+  }
+  .yo .hehe div button {
+    margin: 0px 0px 0px -1em;
+  }
+  .yo .tok #lolm {
+    width: 410px;
+    display: block;
+  }
+  .yo .tok #lolm .lo {
+    margin-left: -1.4em;
+  }
+  .yo .tok #lolm .bo {
+    max-width: 403px;
+    text-align: center;
+  }
+  .yo .tok #lolm .bo .jk {
+    box-shadow: 1em;
+    border-left: 14px;
+    border-bottom-left-radius: 18px;
+    flex-wrap: wrap;
+    width: 403px;
+    margin: 1em 2em 0px -2.4em;
+  }
+  .yo .tok #mok {
+    padding-right: -1em;
+    width: 410px;
+    display: block;
+  }
+  .yo .tok #mok #nbv {
+    width: 373px;
+  }
+  .yo .div {
+    display: none;
+  }
+}
+
+/*# sourceMappingURL=jobm.css.map */
